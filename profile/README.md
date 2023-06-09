@@ -6,7 +6,11 @@ You will find different projects made public that we have realize !
 > 🚷 Notice to other epitech students, do not risk taking a -42.
 
 ### Members 👥 
-- [AxelF](https://github.com/AxelF44) 🐻
-- [Flavien Chenu](https://github.com/flavien-chenu) 🐻‍❄️
-- [Muvyr](https://github.com/Muvyr) 🐝
+- [Axel](https://github.com/AxelF44) 🐻
+- [Flavien](https://github.com/flavien-chenu) 🐻‍❄️
+- [Yann](https://github.com/Muvyr) 🐝
 - [Math](https://github.com/TekMath) 🐨
+- [Thomas](https://github.com/ThomasQUINTIN) 🐙
+
+### Collaborators 🤝
+- [Dragos](https://github.com/sdragos1) 🦣
