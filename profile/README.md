@@ -7,10 +7,10 @@ You will find different projects made public that we have realize !
 
 ### Members 👥 
 - [Axel](https://github.com/AxelF44) 🐻
+- [Dragos](https://github.com/sdragos1) 🦣
 - [Flavien](https://github.com/flavien-chenu) 🐻‍❄️
-- [Yann](https://github.com/yann-masson) 🐝
 - [Math](https://github.com/TekMath) 🐨
+- [Yann](https://github.com/yann-masson) 🐝
 
 ### Collaborators 🤝
-- [Dragos](https://github.com/sdragos1) 🦣
 - [Thomas](https://github.com/ThomasQUINTIN) 🐙
