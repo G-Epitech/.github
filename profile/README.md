@@ -14,3 +14,14 @@ You will find different projects made public that we have realize !
 
 ### Collaborators 🤝
 - [Thomas](https://github.com/ThomasQUINTIN) 🐙
+
+### Projects 📦
+- Arcade
+  - Arcade _In Progress_
+  - [Shared Lib](https://github.com/G-Epitech/MAYBDF-ArcadeShared) 📦
+- [RPG](https://github.com/G-Epitech/AMFD-Rpg) 🕹️
+- [Corewar](https://github.com/G-Epitech/AMYF-Corewar) 🦾
+- [42sh](https://github.com/G-Epitech/FTMAY-42sh) 💻
+
+### Tools 🔧
+- [JenkinsTools](https://github.com/G-Epitech/JenkinsTools) ⚙️
