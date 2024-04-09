@@ -17,7 +17,7 @@ You will find different projects made public that we have realize !
 
 ### Projects 📦
 - Arcade
-  - Arcade _In Progress_
+  - [Arcade](https://github.com/G-Epitech/FMY-Arcade) 🖲️
   - [Shared Lib](https://github.com/G-Epitech/MAYBDF-ArcadeShared) 📦
 - [RPG](https://github.com/G-Epitech/AMFD-Rpg) 🕹️
 - [Corewar](https://github.com/G-Epitech/AMYF-Corewar) 🦾
