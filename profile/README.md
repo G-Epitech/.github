@@ -16,6 +16,7 @@ You will find different projects made public that we have realize !
 - [Thomas](https://github.com/ThomasQUINTIN) 🐙
 
 ### Projects 📦
+- [Raytracer](https://github.com/G-Epitech/DFMY-Raytracer) 🌈
 - Arcade
   - [Arcade](https://github.com/G-Epitech/FMY-Arcade) 🖲️
   - [Shared Lib](https://github.com/G-Epitech/MAYBDF-ArcadeShared) 📦
