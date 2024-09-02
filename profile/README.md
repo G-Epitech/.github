@@ -12,10 +12,12 @@ You will find different projects made public that we have realize !
 - [Yann](https://github.com/yann-masson) 🐝
 
 ### Collaborators 🤝
-- [Axel](https://github.com/AxelF44) 🐻
+- [Axel F.](https://github.com/AxelF44) 🐻
 - [Thomas](https://github.com/ThomasQUINTIN) 🐙
+- [Axel E.](https://github.com/RenardFute) 🦊
 
 ### Projects 📦
+- [Zappy](https://github.com/G-Epitech/DFMY-Zappy) ⚡️
 - [Raytracer](https://github.com/G-Epitech/DFMY-Raytracer) 🌈
 - Arcade
   - [Arcade](https://github.com/G-Epitech/FMY-Arcade) 🖲️
