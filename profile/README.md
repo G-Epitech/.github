@@ -15,8 +15,11 @@ You will find different projects made public that we have realize !
 - [Axel F.](https://github.com/AxelF44) 🐻
 - [Thomas](https://github.com/ThomasQUINTIN) 🐙
 - [Axel E.](https://github.com/RenardFute) 🦊
+- [Thomas B.](https://github.com/Thomaltarix) 🐯
 
 ### Projects 📦
+- [AREA](https://github.com/G-Epitech/DFMTY-AREA) 🔆
+- [R-Type](https://github.com/G-Epitech/DFMY-RType) 🎇
 - [Zappy](https://github.com/G-Epitech/DFMY-Zappy) ⚡️
 - [Raytracer](https://github.com/G-Epitech/DFMY-Raytracer) 🌈
 - Arcade
